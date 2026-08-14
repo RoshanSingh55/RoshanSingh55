@@ -29,6 +29,12 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoshanSingh55&theme=dark)
 
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/RoshanSingh05?theme=dark&font=Nunito&ext=contest" />
+</p>
+
 ## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanSingh55&theme=react-dark&hide_border=true&area=true)
