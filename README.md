@@ -48,10 +48,3 @@
 ## GitHub Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=RoshanSingh55&theme=dark&no-frame=true&column=6)
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RoshanSingh55/RoshanSingh55/output/github-contribution-grid-snake.svg" />
-</p>
-
