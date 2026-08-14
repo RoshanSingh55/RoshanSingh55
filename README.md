@@ -31,6 +31,12 @@
 <img src="https://streak-stats.demolab.com/?user=RoshanSingh55&theme=dark" />
 </p>
 
+# 🐙 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RoshanSingh55&show_icons=true&theme=dark" />
+</p>
+
 # 💻 LeetCode Stats
 
 <p align="center">
