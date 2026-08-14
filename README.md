@@ -25,9 +25,11 @@
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-## Streak Stats
+# 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoshanSingh55&theme=dark)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=RoshanSingh55&theme=dark" />
+</p>
 
 # 💻 LeetCode Stats
 
