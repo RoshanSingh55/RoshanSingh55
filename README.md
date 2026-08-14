@@ -31,12 +31,6 @@
 <img src="https://streak-stats.demolab.com/?user=RoshanSingh55&theme=dark" />
 </p>
 
-# 🐙 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RoshanSingh55&show_icons=true&theme=dark" />
-</p>
-
 # 💻 LeetCode Stats
 
 <p align="center">
@@ -48,8 +42,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanSingh55&theme=react-dark&hide_border=true&area=true)
 
 ## GitHub Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=RoshanSingh55show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tarun0320&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSingh55&layout=compact&theme=dark)
 
 ## GitHub Trophies
